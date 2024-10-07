@@ -1,3 +1,7 @@
 hi c:
+<<<<<<< Updated upstream
 new content)
 tag only
+=======
+feature!
+>>>>>>> Stashed changes
